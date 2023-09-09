@@ -56,7 +56,7 @@ input::placeholder{
 button{
     outline: none;
     border: none;
-    border-radius: p8x;
+    border-radius: 8px;
     height: 30px;
 }
 
