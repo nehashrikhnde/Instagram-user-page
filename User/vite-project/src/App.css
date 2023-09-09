@@ -50,13 +50,13 @@ input::placeholder{
     align-content: center;
     align-items: center;
     justify-content: center;
-     height: 600px;
-     padding-left: 90px;
+     height: 610px;
+     padding-left: 92px;
 }
 button{
     outline: none;
     border: none;
-    border-radius: 7px;
+    border-radius: p8x;
     height: 30px;
 }
 
